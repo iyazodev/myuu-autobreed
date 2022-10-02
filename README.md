@@ -1,6 +1,6 @@
 # Myuu AutoBreed
 
-If you need help message DestroyingPotato#0200 on Discord or join the support server: [https://discord.gg/H6CMFgNB7k](https://discord.gg/H6CMFgNB7k)
+If you need help message DestroyingPotato#0200 on Discord or join the support server: https://discord.gg/H6CMFgNB7k
 
 ## Instructions
 
