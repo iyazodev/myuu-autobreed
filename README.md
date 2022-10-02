@@ -9,7 +9,11 @@ Message DestroyingPotato#0200 on Discord or join the support server: https://dis
 - Create a new folder, open it in VSCode, then create a new javascript file within that folder
 - Run `npm i discord.js-selfbot-v13` in VSCode terminal
 - Copy + paste code from the index.js file into your javascript file 
-- Replace values in code with what you want: which pokemon you're breeding, ID of channel to send messages in, number of box where the bred pokemon will go, and account token
+- Replace values in code with what you want: 
+- Name of the pokemon you're breeding
+- ID of channel to send messages in
+- Number of box where the bred pokemon will go 
+- The account token (at end of code)
 - Run
 
 ## Notes
